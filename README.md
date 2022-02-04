@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá 👋
+## Sou Gisele, dev Full Stack em formação :)
 
-<!--
-**GiseleCorreia/GiseleCorreia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### - PT/BR: Atualmente aprendendo JavaScript, React e Node.js 💻 
+#### - Pronomes: ela/dela.  ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+### Sobre
+[<img src="https://avatars.githubusercontent.com/u/66260886?v=4" width=115 > <br> <sub> Gisele Correia </sub>](https://github.com/GiseleCorreia) |
+| :---: |  
+
+👋🏽 Entre em contato!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Gisele-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-gisele-correia-53180483/)](https://www.linkedin.com/in/maria-gisele-correia-53180483/) [![Gmail Badge](https://img.shields.io/badge/-mariagisele12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mariagisele12@gmail.com)](mailto:mariagisele12@gmail.com)
+
+Obrigada pela visita!
