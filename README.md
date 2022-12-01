@@ -1,8 +1,8 @@
 ### Olá 👋
-## Sou Gisele, dev Full Stack em formação :)
+## Sou Gisele, dev Front-end :)
 
 
-#### - PT/BR: Atualmente aprendendo JavaScript, React e Node.js 💻 
+#### - PT/BR: Atualmente aprendendo JavaScript, React, Vue e Node.js 💻 
 #### - Pronomes: ela/dela.  ✨
 
   
